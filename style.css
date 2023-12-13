@@ -1,0 +1,79 @@
+body{
+    background-color:blue
+    font-size: 25px;
+    color:black;
+}
+
+img{
+    width:370px;
+    border: 2px solid grey;
+    margin-top: 30px;
+    margin-right:20px;
+    margin-bottom:50px;
+    margin-left:60px;
+
+
+}
+p{
+    text-align: justify;
+    line-height:1,5;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Roboto';
+    color: white;
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Roboto';
+    color: black;
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Roboto';
+    color: black;
+}
+h4{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Roboto';
+    color: black;
+}
+h5{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Roboto';
+    color: black;
+}
+h6{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto';
+    color: black;
+}
+h7{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto';
+    color: black;
+}
+h8{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto';
+    color: black;
+}
+h9{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Roboto';
+    color: black;
+}
+b{
+    font-family: 'Roboto';
+    color: blue;
+}
+
